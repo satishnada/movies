@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_nsign_in_here">Already have an account? Sign in Here</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="mvvm">MVVM</string>
+    <string name="architect_your_app_with">Architect Your App With</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_more_data">No more data</string>
+    <string name="url">%s%s</string>
+    <string name="home">Home</string>
+    <string name="movies">Movies</string>
+    <string name="welcome">Welcome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="internet_connection_error">Make sure you have an active data connection!!</string>
+    <string name="service_not_available_error">Service unavailable try again later!!</string>
+    <string name="request_time_out_error">Request time out try again later!!</string>
+    <string name="proper_internet_connection_error">Make sure you have an proper data connection!!</string>
+</resources>

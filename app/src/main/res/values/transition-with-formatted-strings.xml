@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transition_avatar" translatable="false">avatar %d</string>
+    <string name="transition_name" translatable="false">name %d</string>
+    <string name="transition_description" translatable="false">description %d</string>
+</resources>
